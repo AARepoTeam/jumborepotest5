@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\F-6ChildrenIKKM\\Calculator3","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\F-6ChildrenIKKM\\Calculator4","Automation Anywhere\\Bots\\F-6ChildrenIKKM\\CalcThirdDependent1"]}
+{"path":"Automation Anywhere\\Bots\\F-6ChildrenIKKM\\Calculator3","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\F-6ChildrenIKKM\\ThirdCheckInCalc3Dependent1","Automation Anywhere\\Bots\\F-6ChildrenIKKM\\CalcThirdDependent1","Automation Anywhere\\Bots\\F-6ChildrenIKKM\\Calculator4"]}
